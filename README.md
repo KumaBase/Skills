@@ -7,6 +7,7 @@ Cursor / Claude Code 用スキル集。
 | スキル | トリガー | 概要 |
 |--------|----------|------|
 | [chat-to-task](chat-to-task/) | 「タスク作って」 | LINE / Chatwork のチャットやテキストからタスクを抽出し、Kuma Taskboard に登録する |
+| [my-schedule](my-schedule/) | 「今日の予定」「予定教えて」 | 複数 Google カレンダー（KB / iYell / coreal）の予定を統合表示。空き時間・重複検出・想定タスク付き |
 
 ## 使い方
 
