@@ -146,8 +146,9 @@ curl -s -X POST "${KUMA_TASKBOARD_URL}/api/projects/${KUMA_TASKBOARD_PROJECT_KEY
   -H "Accept: application/json" \
   -d '{
     "title": "チケットのタイトル",
-    "description": "## 依頼元\n- **ソース**: LINE / Chatwork / ファイル\n- **グループ**: {グループ名 or ファイル名}\n- **依頼者**: {名前}\n\n## 優先度\n{高 / 中 / 低}\n\n## タスク詳細\n{具体的な作業内容}",
+    "description": "## 依頼元\n- **ソース**: LINE / Chatwork / ファイル\n- **グループ**: {グループ名 or ファイル名}\n- **依頼者**: {名前}\n\n## タスク詳細\n{具体的な作業内容}",
     "status_id": 1,
+    "priority": "中",
     "assignee_user_id": null,
     "due_date": "2026-02-10"
   }'
