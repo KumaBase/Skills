@@ -1,0 +1,291 @@
+{
+  "video": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/画面収録 2026-01-30 13.28.33.mov",
+  "total_frames": 94,
+  "key_frames": [
+    {
+      "path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/frames/frame_0001.jpg",
+      "timestamp": 0,
+      "diff": 0,
+      "highlighted_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/highlighted/frame_0001.jpg",
+      "ui_elements": [
+        [
+          3218,
+          260,
+          215,
+          75
+        ]
+      ],
+      "gif_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/gifs/frame_0000.gif"
+    },
+    {
+      "path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/frames/frame_0015.jpg",
+      "timestamp": 14,
+      "diff": 188.49948330026456,
+      "highlighted_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/highlighted/frame_0015.jpg",
+      "ui_elements": [],
+      "gif_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/gifs/frame_0001.gif"
+    },
+    {
+      "path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/frames/frame_0017.jpg",
+      "timestamp": 16,
+      "diff": 80.68270140284649,
+      "highlighted_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/highlighted/frame_0017.jpg",
+      "ui_elements": [
+        [
+          2152,
+          862,
+          184,
+          157
+        ],
+        [
+          2138,
+          1556,
+          249,
+          65
+        ],
+        [
+          2138,
+          2046,
+          249,
+          59
+        ],
+        [
+          2138,
+          1925,
+          249,
+          59
+        ],
+        [
+          2138,
+          1804,
+          249,
+          59
+        ]
+      ],
+      "gif_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/gifs/frame_0002.gif"
+    },
+    {
+      "path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/frames/frame_0019.jpg",
+      "timestamp": 18,
+      "diff": 56.17148150295472,
+      "highlighted_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/highlighted/frame_0019.jpg",
+      "ui_elements": [
+        [
+          928,
+          357,
+          1600,
+          1799
+        ]
+      ],
+      "gif_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/gifs/frame_0003.gif"
+    },
+    {
+      "path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/frames/frame_0024.jpg",
+      "timestamp": 23,
+      "diff": 57.13685268930805,
+      "highlighted_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/highlighted/frame_0024.jpg",
+      "ui_elements": [
+        [
+          2152,
+          862,
+          169,
+          157
+        ],
+        [
+          2138,
+          1556,
+          249,
+          65
+        ],
+        [
+          2138,
+          2046,
+          249,
+          59
+        ],
+        [
+          2138,
+          1925,
+          249,
+          59
+        ],
+        [
+          2138,
+          1804,
+          249,
+          59
+        ]
+      ],
+      "gif_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/gifs/frame_0004.gif"
+    },
+    {
+      "path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/frames/frame_0026.jpg",
+      "timestamp": 25,
+      "diff": 111.61707261818869,
+      "highlighted_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/highlighted/frame_0026.jpg",
+      "ui_elements": [
+        [
+          771,
+          733,
+          176,
+          54
+        ],
+        [
+          584,
+          733,
+          176,
+          54
+        ],
+        [
+          3076,
+          372,
+          178,
+          53
+        ],
+        [
+          958,
+          733,
+          152,
+          54
+        ]
+      ],
+      "gif_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/gifs/frame_0005.gif"
+    },
+    {
+      "path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/frames/frame_0027.jpg",
+      "timestamp": 26,
+      "diff": 16.49276405638013,
+      "highlighted_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/highlighted/frame_0027.jpg",
+      "ui_elements": [
+        [
+          69,
+          487,
+          2417,
+          1612
+        ]
+      ],
+      "gif_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/gifs/frame_0006.gif"
+    },
+    {
+      "path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/frames/frame_0030.jpg",
+      "timestamp": 29,
+      "diff": 52.68373305761698,
+      "highlighted_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/highlighted/frame_0030.jpg",
+      "ui_elements": [
+        [
+          403,
+          658,
+          1630,
+          917
+        ]
+      ],
+      "gif_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/gifs/frame_0007.gif"
+    },
+    {
+      "path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/frames/frame_0033.jpg",
+      "timestamp": 32,
+      "diff": 58.18721145339449,
+      "highlighted_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/highlighted/frame_0033.jpg",
+      "ui_elements": [],
+      "gif_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/gifs/frame_0008.gif"
+    },
+    {
+      "path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/frames/frame_0034.jpg",
+      "timestamp": 33,
+      "diff": 109.38527038024806,
+      "highlighted_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/highlighted/frame_0034.jpg",
+      "ui_elements": [
+        [
+          2152,
+          862,
+          184,
+          157
+        ],
+        [
+          2138,
+          1556,
+          249,
+          65
+        ],
+        [
+          2138,
+          2046,
+          249,
+          59
+        ],
+        [
+          2138,
+          1925,
+          249,
+          59
+        ],
+        [
+          2138,
+          1804,
+          249,
+          59
+        ]
+      ],
+      "gif_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/gifs/frame_0009.gif"
+    },
+    {
+      "path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/frames/frame_0035.jpg",
+      "timestamp": 34,
+      "diff": 114.6895171420841,
+      "highlighted_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/highlighted/frame_0035.jpg",
+      "ui_elements": [
+        [
+          69,
+          487,
+          2417,
+          1612
+        ]
+      ],
+      "gif_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/gifs/frame_0010.gif"
+    },
+    {
+      "path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/frames/frame_0043.jpg",
+      "timestamp": 42,
+      "diff": 25.35707347174981,
+      "highlighted_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/highlighted/frame_0043.jpg",
+      "ui_elements": [],
+      "gif_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/gifs/frame_0011.gif"
+    },
+    {
+      "path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/frames/frame_0061.jpg",
+      "timestamp": 60,
+      "diff": 18.006117456452277,
+      "highlighted_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/highlighted/frame_0061.jpg",
+      "ui_elements": [
+        [
+          1526,
+          1159,
+          379,
+          204
+        ],
+        [
+          1742,
+          1000,
+          162,
+          158
+        ]
+      ],
+      "gif_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/gifs/frame_0012.gif"
+    },
+    {
+      "path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/frames/frame_0062.jpg",
+      "timestamp": 61,
+      "diff": 17.194800900158043,
+      "highlighted_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/highlighted/frame_0062.jpg",
+      "ui_elements": [
+        [
+          939,
+          711,
+          1578,
+          975
+        ]
+      ],
+      "gif_path": "/Users/ayatsu/Library/CloudStorage/GoogleDrive-ayatsu@iyell.jp/マイドライブ/Cursor/video-to-skills-output/create-invoice/gifs/frame_0013.gif"
+    }
+  ]
+}
