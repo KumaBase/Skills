@@ -29,11 +29,11 @@ for skill_dir in "$SCRIPT_DIR"/claude/*/; do
   name=$(basename "$skill_dir")
   if [ "$name" = "context7" ]; then
     # context7 は ~/.agents/skills/ 経由
-    ln -sf "$skill_dir" "$AGENTS_SKILLS/$name"
-    ln -sf "$AGENTS_SKILLS/$name" "$CLAUDE_SKILLS/$name"
+    ln -sfn "$skill_dir" "$AGENTS_SKILLS/$name"
+    ln -sfn "$AGENTS_SKILLS/$name" "$CLAUDE_SKILLS/$name"
     echo "  ✅ $name (agents → claude)"
   else
-    ln -sf "$skill_dir" "$CLAUDE_SKILLS/$name"
+    ln -sfn "$skill_dir" "$CLAUDE_SKILLS/$name"
     echo "  ✅ $name"
   fi
 done
@@ -46,7 +46,7 @@ echo "📦 共有Cursorスキルをリンク中..."
 for skill_dir in "$SCRIPT_DIR"/shared/*/; do
   [ -d "$skill_dir" ] || continue
   name=$(basename "$skill_dir")
-  ln -sf "$skill_dir" "$CURSOR_SKILLS/$name"
+  ln -sfn "$skill_dir" "$CURSOR_SKILLS/$name"
   echo "  ✅ $name"
 done
 
@@ -88,7 +88,7 @@ if [ -d "$KB_DIR/.cursor/skills" ]; then
   )
   for skill in "${KB_SKILLS[@]}"; do
     if [ -d "$KB_DIR/.cursor/skills/$skill" ]; then
-      ln -sf "$KB_DIR/.cursor/skills/$skill" "$CLAUDE_SKILLS/$skill"
+      ln -sfn "$KB_DIR/.cursor/skills/$skill" "$CLAUDE_SKILLS/$skill"
       echo "  ✅ $skill"
     else
       echo "  ⚠️  $skill が見つからない（スキップ）"
@@ -109,7 +109,7 @@ if [ -d "$IYELL_DIR/.cursor/skills" ]; then
   IYELL_SKILLS=(kintone-gas-operations)
   for skill in "${IYELL_SKILLS[@]}"; do
     if [ -d "$IYELL_DIR/.cursor/skills/$skill" ]; then
-      ln -sf "$IYELL_DIR/.cursor/skills/$skill" "$CLAUDE_SKILLS/$skill"
+      ln -sfn "$IYELL_DIR/.cursor/skills/$skill" "$CLAUDE_SKILLS/$skill"
       echo "  ✅ $skill"
     else
       echo "  ⚠️  $skill が見つからない（スキップ）"
